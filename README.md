@@ -1,3 +1,9 @@
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.x-blue.svg)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.x-blue.svg)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.x-blue.svg)](https://seaborn.pydata.org/)
+
 # Python-Data-Science-Project-Online-Shoppers-intention
 
 To determine if visiting sessions close to special days have an impact on finalized transactions, and also to identify patterns related to browsing period activity and pages visited.
