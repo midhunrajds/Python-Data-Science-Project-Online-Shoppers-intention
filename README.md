@@ -2,15 +2,13 @@
 
 To determine if visiting sessions close to special days have an impact on finalized transactions, and also to identify patterns related to browsing period activity and pages visited.
 
-Basic Structure of the Project
+## Basic Structure of the Project
 
 ## Project description 
-+ Hypothesis
-+ Methods
-+ Analysis
-+ Results
-
-
++ [Hypothesis](#hypothesis)
++ [Methods](#methods)
++ [Analysis](#analysis)
++ [Results](#results)
 
 ## Outline of the Project
 + How pages visited by the visitor in a session and total time spent in each of these page categories affect purchase behaviours. I intend to use Clustering technique to identify patterns.
@@ -22,10 +20,10 @@ The outcome of the project will help to gain more insights into customer behavio
 On an organizational level, better placement of strategies to increase sales and optimize online experience for customers.
 
 ## Datasets
-https://archive.ics.uci.edu/ml/machine-learning- databases/00468/
+[Dataset Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00468/)
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
-   
+
 ## Desired Outcomes
 To gain insights into customer behaviour patterns, and determine the affects of special days and weekends etc. on sales.
 
@@ -71,9 +69,9 @@ Explored possibilities of certain category attributes such as region, visitor ty
 Some strong correlations were found between certain attributes.
 
 ## Project Description: Methods
-Exploratory Data Analysis.
-Clustering customers to segments using the data analytic techniques.
-
+- Exploratory Data Analysis.
+- Clustering customers to segments using the data analytic techniques.
+- [Full Code](Midhun_PRaj_Project_Python_Analysis.ipynb)
 
 ### Project Description: Analysis
 
