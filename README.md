@@ -3,6 +3,8 @@
 [![Pandas](https://img.shields.io/badge/Pandas-1.x-blue.svg)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue.svg)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.x-blue.svg)](https://seaborn.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-blue)](https://scikit-learn.org/stable/)
+
 
 # Python-Data-Science-Project-Online-Shoppers-intention
 
