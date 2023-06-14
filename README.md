@@ -5,10 +5,10 @@ To determine if visiting sessions close to special days have an impact on finali
 ## Basic Structure of the Project
 
 ## Project description 
-+ [Hypothesis](#hypothesis)
-+ [Methods](#methods)
-+ [Analysis](#analysis)
-+ [Results](#results)
+- [Hypothesis](#hypothesis)
+- [Methods](#methods)
+- [Analysis](#analysis)
+- [Results](#results)
 
 ## Outline of the Project
 + How pages visited by the visitor in a session and total time spent in each of these page categories affect purchase behaviours. I intend to use Clustering technique to identify patterns.
