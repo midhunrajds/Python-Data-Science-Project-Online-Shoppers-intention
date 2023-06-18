@@ -5,7 +5,7 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.x-blue.svg)](https://seaborn.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-blue)](https://scikit-learn.org/stable/)
 
-
+<a name="top"></a>
 # Python-Data-Science-Project-Online-Shoppers-intention
 
 To determine if visiting sessions close to special days have an impact on finalized transactions, and also to identify patterns related to browsing period activity and pages visited.
@@ -80,6 +80,8 @@ Some strong correlations were found between certain attributes.
 - Exploratory Data Analysis.
 - Clustering customers to segments using the data analytic techniques.
 - [Full Code](Midhun_PRaj_Project_Python_Analysis.ipynb)
+
+[Go back to top](#top)
 
 ### Project Description: Analysis
 
@@ -177,4 +179,5 @@ However, there are more returning visitors, meaning not many new visitors. As pe
 ### Bibliography
 + https://archive.ics.uci.edu/ml/machine-learning- databases/00468/
 + https://seaborn.pydata.org/tutorial.html https://matplotlib.org/stable/tutorials/index 
-    
+
+[Go back to top](#top)
